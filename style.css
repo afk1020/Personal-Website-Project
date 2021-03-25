@@ -1,3 +1,21 @@
 body {
-    background: grey;
+    background: gray;
+}
+h1, h2 {
+    color:teal;
+}
+h3{ 
+    color: cadetblue;
+}
+h1~p{
+    color: honeydew;
+}
+h2~p{
+    color: honeydew;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: purple;
 }
